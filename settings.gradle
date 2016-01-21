@@ -1,1 +1,1 @@
-include ':app', ':EasyAdapter'
+include ':sample', ':library'
