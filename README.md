@@ -42,3 +42,10 @@ Step 2: Add the dependency
 	    <artifactId>Repo</artifactId>
 	    <version>Tag</version>
 	</dependency>
+
+
+### TODO
+
+There are two features need to complete in the future. Firstly, now it only support one header and one footer, next we need to support adding as many as users want. Secondly, when using GridLayoutManager, the header and footer shows like the other item. Next, we need them to show the whole line.
+
+If you have more suggestions, please add it in the issue and let me know.
